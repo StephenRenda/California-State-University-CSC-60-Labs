@@ -1,0 +1,23 @@
+Script started on Wed 20 Feb 2019 12:30:25 PM PST
+[rendas@athena:14]> gcc lab3.c 
+[rendas@athena:15]> a.out 
+
+Stephen Renda. Lab3 
+
+Jane went to the store.
+
+My friend is 22 years old.
+
+"So many books, so little time."
+- Frank Zappa
+
+The average = 246.1 
+
+The average = 246.136 
+
+The average = 2.46e+02 
+
+[rendas@athena:16]> exit
+exit
+
+Script done on Wed 20 Feb 2019 12:30:40 PM PST

@@ -1,0 +1,51 @@
+Script started on Tue 26 Feb 2019 11:10:36 AM PST
+[rendas@athena:21]> touch lab5.h
+[rendas@athena:22]> mk[Kake
+gcc -c lab5.c
+gcc -c class_stats.c	
+gcc -o grades lab5.o class_stats.o
+[rendas@athena:23]> grades
+
+
+Stephen Renda.  Lab 5. 
+
+
+Stats for lab5a.dat:  
+
+   Average grade = 85.620690 
+
+   Grade Distribution:  
+      Category 100 -  0 
+      Category  90 - 14 
+      Category  80 -  8 
+      Category  70 -  6 
+      Category  60 -  0 
+      Category  50 -  0 
+      Category  40 -  1 
+      Category  30 -  0 
+      Category  20 -  0 
+      Category  10 -  0 
+      Category   0 -  0 
+
+
+Stats for lab5b.dat:  
+
+   Average grade = 85.793103 
+
+   Grade Distribution:  
+      Category 100 -  2 
+      Category  90 - 11 
+      Category  80 -  7 
+      Category  70 -  7 
+      Category  60 -  1 
+      Category  50 -  1 
+      Category  40 -  0 
+      Category  30 -  0 
+      Category  20 -  0 
+      Category  10 -  0 
+      Category   0 -  0 
+
+[rendas@athena:24]> exit
+exit
+
+Script done on Tue 26 Feb 2019 11:12:10 AM PST

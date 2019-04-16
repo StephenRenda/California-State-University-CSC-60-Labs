@@ -1,0 +1,90 @@
+Script started on Wed 30 Jan 2019 10:28:02 AM PST
+[rendas@athena:1]> a
+a2p                                 apr-1-config
+a2x                                 apropos
+ab                                  apt
+abrt                                apu-1-config
+abrt-action-analyze-backtrace       ar
+abrt-action-analyze-c               arch
+abrt-action-analyze-ccpp-local      arp
+abrt-action-analyze-core            arpd
+abrt-action-analyze-oops            arping
+abrt-action-analyze-python          as
+abrt-action-generate-backtrace      asciidoc
+abrt-action-generate-core-backtrace asciidoc.py
+abrt-action-install-debuginfo       aserver
+abrt-action-list-dsos               asound.conf
+abrt-action-notify                  aspell
+abrt-action-save-kernel-data        assistant_adp
+abrt-action-save-package-data       assistant-qt4
+abrt-action-trim-files              at
+abrt-auto-reporting                 atd
+abrt-cli                            at.deny
+abrt-cli-root                       atop
+abrtd                               atopd
+abrt-dbus                           atopsar
+abrt-dedup-client                   atq
+abrt-dump-oops                      atrm
+abrt-handle-upload                  atrun
+abrt-install-ccpp-hook              attr
+abrt-server                         audisp
+ac                                  audispd
+accept                              audit
+accton                              auditctl
+aclocal                             auditd
+aclocal-1.11                        augenrules
+acpi                                aulast
+acpid                               aulastlog
+acpi_listen                         aureport
+activation-client                   ausearch
+addftinfo                           ausyscall
+addgnupghome                        authconfig
+addpart                             authconfig-gtk
+addr2line                           authconfig-tui
+adduser                             autoconf
+adjtime                             autofs.conf
+adsl-setup                          autofs_ldap_auth.conf
+adsl-start                          auto.gaia
+adsl-stop                           autoheader
+afs5log                             auto.hera
+agetty                              autom4te
+alias                               automake
+aliases                             automake-1.11
+aliases.db                          auto.master
+alloc                               auto.master.rpmnew
+alternatives                        auto.misc
+amuFormat.sh                        automount
+anacron                             auto.net
+anacrontab                          autopoint
+annotate-output                     autoreconf
+answer                              autoscan
+ant                                 auto.smb
+ant.conf                            auto.titan
+ant.d                               autoupdate
+antlr                               auto.www
+antlr-config                        autrace
+antlr-java                          auvirt
+antRun                              avahi
+a.out                               avahi-autoipd
+apachectl                           avahi-daemon
+appletviewer                        avcstat
+applygnupgdefaults                  awk
+[rendas@athena:1]> a.out 
+
+Lab 1 
+
+Hello World
+Hi, Stephen Renda
+
+Why did the orange stop?
+...Because it ran outta juice.
+-Unknown funny person
+
+[rendas@athena:2]> :set number
+:set: Command not found.
+[rendas@athena:3]> :exit
+:exit: Command not found.
+[rendas@athena:4]> exit
+exit
+
+Script done on Wed 30 Jan 2019 10:30:33 AM PST
